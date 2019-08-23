@@ -1,1 +1,1 @@
-# accounting-system
+# accounting-system for mobile phones
